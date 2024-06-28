@@ -1,0 +1,18 @@
+
+header {
+   margin: 30px;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    font-family: helvetica, arial, sans;
+    font-color: #f5b642;
+    min-height: 100vh;
+    background-color: #42bff5
+  }
+
+  .majorclaim {
+     
+
+  }
